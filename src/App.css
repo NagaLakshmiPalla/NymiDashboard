@@ -1,0 +1,23 @@
+.App {
+  height: 100vh;
+  /* background-color: #31343a; */
+  background: rgb(45,91,100);
+  background: linear-gradient(90deg, rgba(45,91,100,1) 35%, rgba(166,222,203,1) 100%); 
+
+}
+
+.App-header-logo img{
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  height: 100px;
+  width: 200px;
+}
+.arrange{
+  display: flex;
+  
+}
+
+
+
+

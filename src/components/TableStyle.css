@@ -1,0 +1,20 @@
+.rs-table-cell-header {
+    color: rgb(50, 59, 59);
+    font-size: 16px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: #1a1d24;
+    background-color: #1a1d24;
+}
+
+.rs-table{
+    color: rgb(141, 139, 139) !important;
+}
+
+.green-table-row, .green-table-row  .rs-table-cell {
+    background:green;
+    color: aliceblue;
+}
+.dark-table-row, .dark-table-row  .rs-table-cell {
+    background: #1a1d24;
+    
+}
